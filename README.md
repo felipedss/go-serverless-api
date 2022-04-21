@@ -1,5 +1,5 @@
 
-# Go Serverless Api
+# Go Serverless Api - AWS
 
 ## The application structure will have two components:
 - API Gateway: manages all tasks related to receiving and handling requests for the API.
