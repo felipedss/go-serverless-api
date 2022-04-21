@@ -8,13 +8,11 @@
 <br>
 
 ## Compile the code in the main file
----
 ```console
 GOOS=linux go build -o main
 ```
 
 
----
 ## Put your executable into a zip file
 ```console
 zip main.zip main
