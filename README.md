@@ -21,4 +21,5 @@ zip main.zip main
 ```
 
 Thereafter, upload your code in your lambda console
+
 <b>Further improvements:</b> CI/CD pipeline
